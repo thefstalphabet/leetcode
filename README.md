@@ -1,2 +1,2 @@
 # Leetcode
-The Repo Contained, all the Problems Solutions That I've Solved on Leetcode Contests & while doing Practice.
+The repository contains all the problem solutions I've worked on during LeetCode contests and practice sessions.
